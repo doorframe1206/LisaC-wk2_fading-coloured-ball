@@ -28,3 +28,4 @@ function draw() {
   if(y > height){
     y = 25;
   }
+}
